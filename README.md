@@ -1,5 +1,5 @@
-Tournament DB
-=============
+Tournament Results
+==================
 
 Description
 -----------
