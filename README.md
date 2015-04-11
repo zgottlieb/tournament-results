@@ -21,8 +21,13 @@ Vagrant:  http://www.vagrantup.com/downloads.html
 To run the app:
 
 1) Clone this repo to your machine.
+
 2) Nagivate into the vagrant folder in the new repo folder.
-3) Run the command *vagrant up*
-4) Run the command *vagrant ssh*
+
+3) Run the command *vagrant up*.
+
+4) Run the command *vagrant ssh*.
+
 5) Navigate to /vagrant/tournament.
+
 6) Run *python tournament_test.py* to run the database tests.
